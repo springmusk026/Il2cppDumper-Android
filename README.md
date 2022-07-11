@@ -2,7 +2,7 @@
 all credits to prefare for his work -Zysgik il2cpp dumper i just changed the way it worked 
 
 # Notice
-This repo contains codes of {Prefare](https://github.com/Perfare) from repo [Zysgik-Dumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
+This repo contains codes of [Prefare](https://github.com/Perfare) from repo [Zysgik-Dumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
 
 # Features
 - Can Dump Hardly Encrypted Games As Codm
